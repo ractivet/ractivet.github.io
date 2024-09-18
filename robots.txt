@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ractivet.github.io/sitemap.html.gz
+Sitemap: https://ractivet.github.io/app/sitemap.html.gz
+Sitemap: https://ractivet.github.io/assets/sitemap.html.gz
+Sitemap: https://ractivet.github.io/css/sitemap.html.gz
+Sitemap: https://ractivet.github.io/includes/sitemap.html.gz
+Sitemap: https://ractivet.github.io/item/sitemap.html.gz
+Sitemap: https://ractivet.github.io/src/sitemap.html.gz
